@@ -1,2 +1,2 @@
 # nodeingOS
-NodeingOS is os based on nodejs and linux
+NodeingOS is an os based on nodejs and linux
