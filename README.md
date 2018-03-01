@@ -1,6 +1,6 @@
 ## Welcome to nodeingOS
 It is written in nodejs and python
-so it is based on nodejs and linux
+so it is based on linux
 ## how to install
 Open the terminal and type:
 ```bash
