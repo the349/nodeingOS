@@ -1,0 +1,26 @@
+{                                                                                                                                   
+  "name": "nodeingos",                                                                                                              
+  "version": "0.0.1",                                                                                                               
+  "description": "NodeingOS is an os based on nodejs and linux",                                                                    
+  "main": "bin/nodeingOS.js",                                                                                                       
+  "scripts": {                                                                                                                      
+    "test": "node bin/nodeingOS.js"                                                                                                 
+  },                                                                                                                                
+  "repository": {                                                                                                                   
+    "type": "git",                                                                                                                  
+    "url": "git+https://github.com/the349/nodeingOS.git"                                                                            
+  },                                                                                                                                
+  "keywords": [                                                                                                                     
+    "node",                                                                                                                         
+    "os",                                                                                                                           
+    "nodeing",                                                                                                                      
+    "nodeingOS",                                                                                                                    
+    "nodejs"                                                                                                                        
+  ],                                                                                                                                
+  "author": "the349",                                                                                                               
+  "license": "GPL-3.0",                                                                                                             
+  "bugs": {                                                                                                                         
+    "url": "https://github.com/the349/nodeingOS/issues"                                                                             
+  },                                                                                                                                
+  "homepage": "https://github.com/the349/nodeingOS#readme"                                                                          
+}
