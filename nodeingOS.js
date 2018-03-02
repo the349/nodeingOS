@@ -1,0 +1,1 @@
+console.log("nodeingOS is booting")
